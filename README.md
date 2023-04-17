@@ -1,4 +1,4 @@
-[11:38 AM, 4/17/2023] Arun: !-- dynamic typing effect  -->
+
   <div align="center">
    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
    </div>
@@ -16,7 +16,7 @@
 <!-- About me -->
 ### 🤺 About Me
 
-## Hi 👋 I am Arun Pratap Singh Chauhan!
+## Hi 👋 I am Bhavesh Bahad!
 
 I'm a student at [Medicaps University Indore](https://www.medicaps.ac.in).
 
@@ -31,7 +31,7 @@ I'm an frontend developer by specialization and am a software engineer at heart.
 - I'm a student at [Medicaps University Indore](https://www.medicaps.ac.in).
 - I enjoy playing online games and standup comedy, and reading comic books. <img width="0%" align="right" alt="Github Image" src="" />
 - I regularly write articles on [cityapp.host](cityapp.host)
-- How to reach me Arunchauhannbhind7@gmail.com
+- How to reach me bahadbhavesh@gmail.com
 - Let's Connect [LinkedIn Profile]()
 - Fun fact: Dr Seuss invented the word ‘nerd’.
           </td>
